@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaKarry
-- 👀 I’m interested in Shell Scripting, JavaScript, Google Apps Script, Oracle Apex,Linux Administration and performance tuning, SQL and PL/SQL
+- 👀 I’m interested in Shell Scripting, JavaScript, Google Apps Script, Azure, AWS, Oracle Apex,Linux Administration and performance tuning, SQL and PL/SQL
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Shell Scripting, Oracle Apex
 - 📫 How to reach me Email: adityakarry@gmail.com
