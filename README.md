@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaKarry
-- 👀 I’m interested in Shell Scripting, Ansible, JavaScript, Google Apps Script, Azure, AWS, Oracle Apex,Linux Administration and performance tuning, SQL and PL/SQL
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Shell Scripting, Oracle Apex
+- 👀 I’m interested in Shell Scripting, Ansible, , Azure, AWS, JavaScript, Google Apps Script, Oracle Apex,Linux Administration and performance tuning, SQL and PL/SQL
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m looking to collaborate on Shell Scripting, Ansible, Terraform
 - 📫 How to reach me Email: adityakarry@gmail.com
 
 <!---
